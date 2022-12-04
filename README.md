@@ -1,9 +1,9 @@
 # SamanApp-Dev
 My First Repository
-# H1 Wednesday
-## H2 Stranger Things
-### H3 Enola Holmes
-#### H4 Elite
+# Wednesday
+## Stranger Things
+### Enola Holmes
+#### Elite
 ----
 **Wednesday,**
 **Stranger Things,**
